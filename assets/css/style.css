@@ -1,0 +1,96 @@
+.carousel-inner{
+  height: 550px;
+  margin: auto;
+
+}
+
+body{
+  background: #F6E6CE;
+}
+
+.top {
+  background-color: #721616;
+}
+
+.font {
+  font-size: 28px;
+}
+
+.card {
+  background-color: #C9BDAB;
+}
+
+.btn {
+  background-color: #551919;
+}
+
+.btnHeader {
+  background-color: #fff;
+  border-radius: 4px;
+}
+
+.btnHeader:hover{
+  color: #551919;
+}
+
+.btn:hover {
+  color: #000;
+}
+
+td {
+  color: black;
+}
+
+th {
+  color: black;
+}
+
+p {
+  color: black;
+}
+.pt {
+  margin-bottom: 50px;
+}
+.descri{
+  width: 90%;
+  background-color: #721616;
+  color: #fff;
+  word-wrap: break-word;
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 25px;
+  margin-top: 42px;
+}
+
+
+
+.card-body{
+  background-color: #C9BDAB ;
+}
+
+.title {
+  font-family: satisf;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+
+.logoIF  {
+  
+margin-left: 30px;
+  
+}
+
+.teste {
+  width: 199px;
+  height: 200px;
+  background: red;
+}
+
+
+.footerr {
+  background-color: #721616;
+}
+
+.icontop {
+  
+}

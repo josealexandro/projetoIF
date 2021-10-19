@@ -1,0 +1,11 @@
+div.image-preview {
+  display: inline-block;
+  padding: 4px;;
+  border: 1px solid #d2d6da;
+  position: relative;
+}
+
+img.image-preview {
+  width: auto;
+  height: 120px;
+}
